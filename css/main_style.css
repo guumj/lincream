@@ -257,7 +257,7 @@ body {
 #slide_wrap .screen {
     position: relative;
     overflow: hidden;
-    padding: 140px 0;
+    padding: 140px 0 150px;
 }
 
 #slide_wrap .screen img {
